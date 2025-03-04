@@ -1,8 +1,7 @@
 # Hi there, I'm Ashni Chinnu Sam 👋
 
 🎓 **Computer Science Graduate (2024)**  
-🔍 **Aspiring Software Engineer**  
-💡 **Passionate about problem-solving, coding, and building impactful software**  
+
 
 ---
 
