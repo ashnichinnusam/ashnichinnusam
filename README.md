@@ -1,8 +1,8 @@
 # Hi there, I'm Ashni Chinnu Sam 👋
 
 🎓 **Computer Science Graduate (2024)**  
-🛠️   Simply-Learning
-     Brewed leaves..
+🛠️  Simply-Learning
+☕️  Brewed leaves..
 
    
 
