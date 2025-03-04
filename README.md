@@ -1,17 +1,16 @@
-##  🌱 I’m currently learning ...
+# Hi there, I'm Ashni Chinnu Sam 👋
 
-<!--
-**ashnichinnusam/ashnichinnusam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Graduate (2024)**  
+🔍 **Aspiring Software Engineer**  
+💡 **Passionate about problem-solving, coding, and building impactful software**  
 
-Here are some ideas to get you started:
+---
 
-- ##🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-So, ask Google..💀
+  
+
+---
+
+## 📫 **Connect with Me:**  
+📧 Email: ashnichinnusam2003@gmail.com  
+🔗 linkedin:https://www.linkedin.com/in/ashnichinnusam/  
+
