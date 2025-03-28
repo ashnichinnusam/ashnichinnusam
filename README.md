@@ -1,6 +1,6 @@
 # 👋 Hi,there.. 
 I'am **Ashni Chinnu Sam** , gurl exploring the world of tech and coding 
-### 💻 Computer Science and Engineering Graduate (2024)
+💻 Computer Science and Engineering Graduate (2024) 
 
 🛠️ **Tech I Work With:**  
 - **Languages:** Python, C, Java  
@@ -12,11 +12,11 @@ I'am **Ashni Chinnu Sam** , gurl exploring the world of tech and coding
 - Expanding my backend skills
 
 🔗 **Connect with Me:**  
-[LinkedIn](https://www.linkedin.com/in/ashni-chinnu-sam)  •  [GitHub](https://github.com/ashnichinnusam)  
+[LinkedIn](https://www.linkedin.com/in/ashni-chinnu-sam)  •  [GitHub](https://github.com/ashnichinnusam)  • [Gmail](ashnichinnusam2003@gmail.com)
 
 ---
 
-💡 _"Still learning. Still growing."_  
+☕ _trying to build cool stuff and learn along the way !!_  
 
 
 
