@@ -9,7 +9,7 @@ I'm **Ashni Chinnu Sam** , gurl exploring the world of tech and coding 🎯 <br>
 
 🌱 **Currently Exploring:**  
 - Building clean, efficient code  
-- Expanding my backend skills
+- Expanding backend skills
 
 🔗 **Connect with Me:**  
 [LinkedIn](https://www.linkedin.com/in/ashnichinnusam/) <br>
