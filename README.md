@@ -1,20 +1,23 @@
-# Hey there! 👋
+# 👋 Hi, I'm Ashni  
+### 💻 Computer Science and Engineering Graduate (2024)
 
-I'm **Ashni Chinnu Sam**, a gurl exploring the world of tech and coding. I’m a computer science graduate, trying to build cool stuff and learn along the way. 
+🛠️ **Tech I Work With:**  
+- **Languages:** Python, C, Java  
+- **Web:** HTML, CSS, JavaScript, Django  
+- **Tools:** Git, Postman, VS Code, Linux  
 
-### 🛠️ **What I Know:**
-- **Languages:** Python, C, HTML, CSS
-- **Concepts:** OOP, Data Structures, Algorithms
-- **Other Skills:** Communication, Teamwork, Leadership
+🌱 **Currently Exploring:**  
+- Building clean, efficient code  
+- Expanding my backend skills  
+- Preparing for software engineering roles  
 
-### 🌱 **What I'm Learning:**
-- Web Development
+🔗 **Connect with Me:**  
+[LinkedIn](https://www.linkedin.com/in/ashni-chinnu-sam) • [GitHub](https://github.com/ashnichinnusam)  
+
+---
+
+💡 _"Still learning. Still growing."_  
 
 
-### 📩 **Get in Touch:**
-- **Email:** ashnichinnusam2003@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/ashnichinnusam/
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashnichinnusam&layout=compact&theme=radical)
 
 
