@@ -15,6 +15,6 @@ I'm **Ashni Chinnu Sam**, a gurl exploring the world of tech and coding. I’m a
 - **Email:** ashnichinnusam2003@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/ashnichinnusam/
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashnichinnusam&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashnichinnusam&layout=compact&theme=dark&show_icons=true)
 
 
