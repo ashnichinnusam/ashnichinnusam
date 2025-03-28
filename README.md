@@ -1,5 +1,5 @@
 # 👋 Hi,there.. 
-I'am **Ashni Chinnu Sam** , gurl exploring the world of tech and coding 🧑‍🚀 <br>
+I'm **Ashni Chinnu Sam** , gurl exploring the world of tech and coding 🎯 <br>
 🎓 Computer Science and Engineering Graduate (2024) 
 
 🛠️ **Tech I Work With:**  
