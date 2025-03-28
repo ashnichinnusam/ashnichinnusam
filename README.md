@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Ashni  
+# 👋 Hi,there.. 
+I'am **Ashni Chinnu Sam** , gurl exploring the world of tech and coding 
 ### 💻 Computer Science and Engineering Graduate (2024)
 
 🛠️ **Tech I Work With:**  
@@ -8,11 +9,10 @@
 
 🌱 **Currently Exploring:**  
 - Building clean, efficient code  
-- Expanding my backend skills  
-- Preparing for software engineering roles  
+- Expanding my backend skills
 
 🔗 **Connect with Me:**  
-[LinkedIn](https://www.linkedin.com/in/ashni-chinnu-sam) • [GitHub](https://github.com/ashnichinnusam)  
+[LinkedIn](https://www.linkedin.com/in/ashni-chinnu-sam)  •  [GitHub](https://github.com/ashnichinnusam)  
 
 ---
 
