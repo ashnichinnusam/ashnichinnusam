@@ -12,8 +12,8 @@ I'am **Ashni Chinnu Sam** , gurl exploring the world of tech and coding
 - Expanding my backend skills
 
 🔗 **Connect with Me:**  
-[LinkedIn](https://www.linkedin.com/in/ashnichinnusam/) 
-[GitHub](https://github.com/ashnichinnusam) 
+[LinkedIn](https://www.linkedin.com/in/ashnichinnusam/) <br>
+[GitHub](https://github.com/ashnichinnusam) <br>
 Gmail ashnichinnusam2003@gmail.com
 
 ---
